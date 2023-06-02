@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "tropfen.jpg"
-description = "Hilft Cannabis wircklich gegen Rheumaschmerzen oder ist alles nur Einbildung? \nKann Cannabis bei Rheumaschmerzen helfen?\n\n\n\n\n\n\n\n"
+description = "Hilft Cannabis wircklich gegen Rheumaschmerzen oder ist alles nur Einbildung? \n\n\n\n\n\n\n\n\n"
 +++
 Mithilfe von Cannabis lassen sich mutmasslich Krankheiten therapieren, gegen die viele andere Medikamente nutzlos sind. Doch hilft diese Therapie wirklich? Und was sollte man über eine Cannabis-Therapie wissen?
 
